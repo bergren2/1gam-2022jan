@@ -1,0 +1,24 @@
+{
+  "entries": {
+    "cask": {
+      "godot-mono": {
+        "version": "3.4.2",
+        "options": {
+          "full_name": "godot-mono"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "monterey": {
+        "HOMEBREW_VERSION": "3.3.9-101-g26bffd4",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "7f0ee0dd177af8933aa08484243b4e172829c265",
+        "CLT": "13.2.0.0.1.1638488800",
+        "Xcode": "13.2.1",
+        "macOS": "12.1"
+      }
+    }
+  }
+}
